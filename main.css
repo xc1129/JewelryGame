@@ -1,0 +1,39 @@
+body
+{
+  color:#FA6766;
+  font-family:Trebuchet MS,arial,verdana;
+  margin:20px;
+  padding:0pt;
+}
+
+#table
+{
+  width:100%;
+}
+
+.row
+{
+  width:100%;
+}
+
+.col
+{
+  float:left;
+  width:50px;
+  height:50px;
+  cursor:pointer;
+}
+
+.reset
+{
+  cursor:pointer;
+  text-decoration:underline;
+}
+
+#container
+{
+  margin:0pt;
+  padding:0pt;
+}
+
+}
